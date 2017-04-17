@@ -1,1 +1,1 @@
-# szkolenie_python
+# Repozytorium do szkolenia Python
